@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "method": "qris",
+    "amount": 25000,
+    "status": "success",
+    "transaction_id": "TRX-Q-1002345",
+    "paid_at": "2026-03-12T07:15:30Z"
+  },
+  {
+    "id": 2,
+    "order_id": 2,
+    "method": "cash",
+    "amount": 50000,
+    "status": "success",
+    "transaction_id": "TRX-C-1002346",
+    "paid_at": "2026-03-12T07:20:15Z"
+  }
+]

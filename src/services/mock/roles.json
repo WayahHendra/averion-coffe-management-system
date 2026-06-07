@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "SuperAdmin",
+    "description": "Full platform access — manages all tenants, branches, and system configuration"
+  },
+  {
+    "id": 2,
+    "name": "TenantOwner",
+    "description": "Full control over own tenant — manages branches, staff, and business strategy"
+  },
+  {
+    "id": 3,
+    "name": "BranchManager",
+    "description": "Manages daily operations — menu, tables, vouchers, orders, bookings, analytics"
+  },
+  {
+    "id": 4,
+    "name": "Cashier",
+    "description": "Handles transactions — creates orders, accepts payments, manages bookings"
+  },
+  {
+    "id": 5,
+    "name": "Kitchen",
+    "description": "Manages order preparation — views and updates order status"
+  }
+]

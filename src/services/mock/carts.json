@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "product_name": "French Vanilla Fantasy",
+    "price": 28000,
+    "subtotal": 31000,
+    "quantity": 1,
+    "notes": "",
+    "selected_variant": "",
+    "size": {
+      "id": "medium",
+      "name": "Medium",
+      "price_modifier": 3000
+    },
+    "sugar_level": {
+      "id": "less",
+      "name": "Less Sugar"
+    }
+  },
+  {
+    "id": 2,
+    "product_id": 21,
+    "product_name": "Beef Burger",
+    "price": 45000,
+    "subtotal": 90000,
+    "quantity": 2,
+    "notes": "No pickles",
+    "selected_variant": "",
+    "size": null,
+    "sugar_level": null
+  }
+]

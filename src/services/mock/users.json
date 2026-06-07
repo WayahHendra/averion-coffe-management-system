@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "display_name": "SaaS Super Admin",
+    "username": "superadmin",
+    "email": "admin@averion.id",
+    "tenant_id": null,
+    "branch_id": null,
+    "status": "active",
+    "role_id": 1,
+    "password_hash": "hashed_password"
+  },
+  {
+    "id": 2,
+    "display_name": "Budi Santoso",
+    "username": "buditenant",
+    "email": "budi@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": null,
+    "status": "active",
+    "role_id": 2,
+    "password_hash": "hashed_password"
+  },
+  {
+    "id": 3,
+    "display_name": "Andi Manager",
+    "username": "andi_jkt",
+    "email": "andi@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": "brc-001",
+    "status": "active",
+    "role_id": 3,
+    "password_hash": "hashed_password"
+  },
+  {
+    "id": 4,
+    "display_name": "Siti Cashier",
+    "username": "siti_kasir",
+    "email": "siti@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": "brc-001",
+    "status": "active",
+    "role_id": 4,
+    "password_hash": "cashier123"
+  },
+  {
+    "id": 5,
+    "display_name": "Chef Juna",
+    "username": "chef_juna",
+    "email": "juna@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": "brc-001",
+    "status": "active",
+    "role_id": 5,
+    "password_hash": "hashed_password"
+  },
+  {
+    "id": 6,
+    "display_name": "Rina Cashier",
+    "username": "rina_bdg",
+    "email": "rina@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": "brc-002",
+    "status": "active",
+    "role_id": 4,
+    "password_hash": "cashier123"
+  },
+  {
+    "id": 7,
+    "display_name": "Dewi Manager",
+    "username": "dewi_bdg",
+    "email": "dewi@kopikemang.com",
+    "tenant_id": "tnt-kopikemang",
+    "branch_id": "brc-002",
+    "status": "active",
+    "role_id": 3,
+    "password_hash": "hashed_password"
+  }
+]

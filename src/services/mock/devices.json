@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dev-001",
+    "table_id": 1,
+    "branch_id": "brc-001",
+    "mac_address": "AA:BB:CC:DD:EE:01",
+    "battery_level": 98,
+    "health_status": "good",
+    "firmware_version": "v1.4.0",
+    "wifi_rssi_dbm": -42,
+    "last_seen": "2026-03-12T12:55:00Z"
+  },
+  {
+    "id": "dev-002",
+    "table_id": 2,
+    "branch_id": "brc-001",
+    "mac_address": "AA:BB:CC:DD:EE:02",
+    "battery_level": 72,
+    "health_status": "good",
+    "firmware_version": "v1.4.0",
+    "wifi_rssi_dbm": -55,
+    "last_seen": "2026-03-12T12:50:00Z"
+  },
+  {
+    "id": "dev-003",
+    "table_id": 3,
+    "branch_id": "brc-001",
+    "mac_address": "AA:BB:CC:DD:EE:03",
+    "battery_level": 12,
+    "health_status": "warning",
+    "firmware_version": "v1.3.1",
+    "wifi_rssi_dbm": -70,
+    "last_seen": "2026-03-12T11:30:00Z"
+  },
+  {
+    "id": "dev-004",
+    "table_id": 4,
+    "branch_id": "brc-001",
+    "mac_address": "AA:BB:CC:DD:EE:04",
+    "battery_level": 45,
+    "health_status": "good",
+    "firmware_version": "v1.3.1",
+    "wifi_rssi_dbm": -60,
+    "last_seen": "2026-03-12T12:48:00Z"
+  },
+  {
+    "id": "dev-005",
+    "table_id": 5,
+    "branch_id": "brc-001",
+    "mac_address": "AA:BB:CC:DD:EE:05",
+    "battery_level": 0,
+    "health_status": "offline",
+    "firmware_version": "v1.2.0",
+    "wifi_rssi_dbm": 0,
+    "last_seen": "2026-03-10T08:00:00Z"
+  },
+  {
+    "id": "dev-006",
+    "table_id": 1,
+    "branch_id": "brc-002",
+    "mac_address": "FF:AA:BB:CC:DD:01",
+    "battery_level": 88,
+    "health_status": "good",
+    "firmware_version": "v1.4.0",
+    "wifi_rssi_dbm": -48,
+    "last_seen": "2026-03-12T12:52:00Z"
+  },
+  {
+    "id": "dev-007",
+    "table_id": 2,
+    "branch_id": "brc-002",
+    "mac_address": "FF:AA:BB:CC:DD:02",
+    "battery_level": 8,
+    "health_status": "critical",
+    "firmware_version": "v1.3.0",
+    "wifi_rssi_dbm": -75,
+    "last_seen": "2026-03-12T10:15:00Z"
+  },
+  {
+    "id": "dev-008",
+    "table_id": 3,
+    "branch_id": "brc-002",
+    "mac_address": "FF:AA:BB:CC:DD:03",
+    "battery_level": 55,
+    "health_status": "good",
+    "firmware_version": "v1.4.0",
+    "wifi_rssi_dbm": -52,
+    "last_seen": "2026-03-12T12:54:00Z"
+  }
+]

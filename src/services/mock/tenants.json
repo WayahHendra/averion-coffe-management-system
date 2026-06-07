@@ -1,0 +1,16 @@
+[
+  {
+    "id": "tnt-kopikemang",
+    "company_name": "Kopi Kemang Nusantara",
+    "owner_email": "budi@kopikemang.com",
+    "status": "active",
+    "created_at": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "tnt-javablend",
+    "company_name": "Java Blend Roastery",
+    "owner_email": "hello@javablend.id",
+    "status": "active",
+    "created_at": "2025-06-15T09:30:00Z"
+  }
+]

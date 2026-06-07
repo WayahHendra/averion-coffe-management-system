@@ -1,0 +1,835 @@
+[
+  {
+    "id": 1,
+    "name": "French Vanilla Fantasy",
+    "description": "Nikmati kelembutan espresso premium yang dipadukan dengan sirup vanilla Prancis asli.",
+    "price": 28000,
+    "image": "./products/20251221224531.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-21T22:45:31.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 2,
+    "name": "Almond Amore",
+    "description": "Perpaduan harmonis antara espresso bold dengan susu almond berkualitas tinggi.",
+    "price": 25000,
+    "image": "./products/20251215060429.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": 2,
+    "created_at": "2025-12-15T06:04:29.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 3,
+    "name": "Cinnamon Swirl",
+    "description": "Kopi hangat dengan taburan kayu manis pilihan yang memberikan sensasi rasa yang kompleks.",
+    "price": 22000,
+    "image": "./products/20251206174422.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": 3,
+    "created_at": "2025-12-06T17:44:22.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 4,
+    "name": "Raspberry Ripple",
+    "description": "Kombinasi berani antara espresso dengan sirup raspberry segar.",
+    "price": 26000,
+    "image": "./products/20251216012701.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-16T01:27:01.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 5,
+    "name": "Irish Cream Infusion",
+    "description": "Terinspirasi dari minuman klasik Irlandia, kopi ini menghadirkan rasa cream yang kaya.",
+    "price": 28000,
+    "image": "./products/20251205030255.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": 5,
+    "created_at": "2025-12-05T03:02:55.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 6,
+    "name": "Tiramisu Temptation",
+    "description": "Rasakan kelezatan dessert Italia favorit dalam bentuk kopi.",
+    "price": 18000,
+    "image": "./products/20251214142451.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-14T14:24:51.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 7,
+    "name": "White Chocolate Wonder",
+    "description": "Minuman indulgent dengan kombinasi cokelat putih premium dan espresso.",
+    "price": 24000,
+    "image": "./products/20251213212252.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": 6,
+    "created_at": "2025-12-13T21:22:52.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 8,
+    "name": "Dark Roast Dynamite",
+    "description": "Untuk pecinta kopi sejati yang menghargai karakter bold dan intens.",
+    "price": 27000,
+    "image": "./products/20251227233538.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-27T23:35:38.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 9,
+    "name": "Irish Cream Infusion V2",
+    "description": "Varian kedua dari signature Irish Cream kami dengan komposisi yang sedikit berbeda.",
+    "price": 26000,
+    "image": "./products/20251205211811.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-05T21:18:11.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 10,
+    "name": "Decaf Delight",
+    "description": "Semua kelezatan kopi tanpa kafein.",
+    "price": 32000,
+    "image": "./products/20251211191947.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-11T19:19:47.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 11,
+    "name": "Pumpkin Spice Perfection",
+    "description": "Minuman musiman favorit dengan campuran pumpkin puree, kayu manis, pala, dan jahe.",
+    "price": 29000,
+    "image": "./products/20251210025123.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-10T02:51:23.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 12,
+    "name": "Colombian Comfort",
+    "description": "Single origin dari pegunungan Colombia dengan profile rasa yang balanced.",
+    "price": 23000,
+    "image": "./products/20251212214433.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-12T21:44:33.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 13,
+    "name": "Ethiopian Emerald",
+    "description": "Specialty coffee dari tanah kelahiran kopi.",
+    "price": 35000,
+    "image": "./products/20251209112853.png",
+    "category_id": 1,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": 6,
+    "created_at": "2025-12-09T11:28:53.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 14,
+    "name": "Chocolate Chip Cookie",
+    "description": "Cookie klasik dengan potongan cokelat chip Belgium yang melimpah.",
+    "price": 15000,
+    "image": "./products/20251208215722.png",
+    "category_id": 3,
+    "sold_count": 2,
+    "created_at": "2025-12-08T21:57:22.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 15,
+    "name": "Almond Biscotti",
+    "description": "Biscotti tradisional Italia dengan taburan almond panggang.",
+    "price": 18000,
+    "image": "./products/20251224132443.png",
+    "category_id": 3,
+    "sold_count": 3,
+    "created_at": "2025-12-24T13:24:43.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 16,
+    "name": "Butter Croissant",
+    "description": "Croissant artisan dengan lapisan mentega Prancis yang flaky.",
+    "price": 25000,
+    "image": "./products/20251213224741.png",
+    "category_id": 4,
+    "sold_count": 8,
+    "created_at": "2025-12-13T22:47:41.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 17,
+    "name": "Blueberry Muffin",
+    "description": "Muffin lembut dengan blueberry segar yang juicy di setiap gigitan.",
+    "price": 20000,
+    "image": "./products/20251223012123.png",
+    "category_id": 4,
+    "sold_count": 5,
+    "created_at": "2025-12-23T01:21:23.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 18,
+    "name": "Matcha Latte",
+    "description": "Matcha ceremonial grade dari Uji, Kyoto dipadukan dengan susu steamed yang creamy.",
+    "price": 28000,
+    "image": "./products/20251223143516.png",
+    "category_id": 5,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-23T14:35:16.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 19,
+    "name": "Taro Milk Tea",
+    "description": "Minuman populer Taiwan dengan taro purple yang manis dan creamy.",
+    "price": 22000,
+    "image": "./products/20251211164648.png",
+    "category_id": 5,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      },
+      {
+        "id": "large",
+        "name": "Large",
+        "price_modifier": 5000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "less",
+        "name": "Less Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      },
+      {
+        "id": "extra",
+        "name": "Extra Sugar"
+      }
+    ],
+    "sold_count": null,
+    "created_at": "2025-12-11T16:46:48.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 20,
+    "name": "Earl Grey Tea",
+    "description": "Teh Earl Grey premium dengan aroma bergamot aromatik.",
+    "price": 20000,
+    "image": "./products/placeholder.png",
+    "category_id": 2,
+    "sizes": [
+      {
+        "id": "small",
+        "name": "Small",
+        "price_modifier": 0
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "price_modifier": 3000
+      }
+    ],
+    "sugar_levels": [
+      {
+        "id": "none",
+        "name": "No Sugar"
+      },
+      {
+        "id": "normal",
+        "name": "Normal"
+      }
+    ],
+    "sold_count": 12,
+    "created_at": "2026-01-10T10:00:00.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 21,
+    "name": "Beef Burger",
+    "description": "Burger daging sapi premium dengan keju dan saus house special.",
+    "price": 45000,
+    "image": "./products/placeholder.png",
+    "category_id": 6,
+    "sold_count": 25,
+    "created_at": "2026-01-15T12:00:00.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  },
+  {
+    "id": 22,
+    "name": "Spaghetti Bolognese",
+    "description": "Pasta khas Italia dengan saus daging cincang.",
+    "price": 40000,
+    "image": "./products/placeholder.png",
+    "category_id": 6,
+    "sold_count": 18,
+    "created_at": "2026-01-15T12:30:00.000Z",
+    "updated_at": null,
+    "is_available": true,
+    "branch_id": "brc-001"
+  }
+]

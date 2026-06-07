@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "table_id": 14,
+    "status": "completed",
+    "payment_method": "cash",
+    "payment_status": "completed",
+    "subtotal": 160000,
+    "discount": 0,
+    "tax": 19200,
+    "total": 179200,
+    "voucher_code": "",
+    "created_at": "2026-01-07T21:14:37",
+    "order_items": [
+      {
+        "id": 1,
+        "product_id": 10,
+        "product_name": "Decaf Delight",
+        "product_image": "./products/20251211191947.png",
+        "price": 32000,
+        "quantity": 5,
+        "size": {
+          "id": "small",
+          "name": "Small",
+          "price_modifier": 0
+        },
+        "sugar_level": {
+          "id": "less",
+          "name": "Less Sugar"
+        },
+        "subtotal": 160000
+      }
+    ],
+    "order_code": "AVR-JKT-1000",
+    "branch_id": "brc-001",
+    "order_type": "dine_in"
+  },
+  {
+    "id": 2,
+    "table_id": 11,
+    "status": "completed",
+    "payment_method": "cash",
+    "payment_status": "completed",
+    "subtotal": 75000,
+    "discount": 0,
+    "tax": 9000,
+    "total": 84000,
+    "voucher_code": "",
+    "created_at": "2026-01-07T21:18:20",
+    "order_items": [
+      {
+        "id": 101,
+        "product_id": 2,
+        "product_name": "Almond Amore",
+        "product_image": "./products/20251215060429.png",
+        "price": 25000,
+        "quantity": 3,
+        "size": {
+          "id": "small",
+          "name": "Small",
+          "price_modifier": 0
+        },
+        "sugar_level": {
+          "id": "less",
+          "name": "Less Sugar"
+        },
+        "subtotal": 75000
+      }
+    ],
+    "order_code": "AVR-JKT-1001",
+    "branch_id": "brc-001",
+    "order_type": "dine_in"
+  },
+  {
+    "id": 3,
+    "table_id": 1,
+    "status": "completed",
+    "payment_method": "cash",
+    "payment_status": "completed",
+    "subtotal": 28000,
+    "discount": 0,
+    "tax": 9840,
+    "total": 91840,
+    "voucher_code": "",
+    "created_at": "2026-01-07T22:13:02",
+    "order_items": [
+      {
+        "id": 201,
+        "product_id": 1,
+        "product_name": "French Vanilla Fantasy",
+        "product_image": "./products/20251221224531.png",
+        "price": 28000,
+        "quantity": 1,
+        "size": {
+          "id": "small",
+          "name": "Small",
+          "price_modifier": 0
+        },
+        "sugar_level": {
+          "id": "less",
+          "name": "Less Sugar"
+        },
+        "subtotal": 28000
+      },
+      {
+        "id": 202,
+        "product_id": 4,
+        "product_name": "Raspberry Ripple",
+        "product_image": "./products/20251216012701.png",
+        "price": 26000,
+        "quantity": 1,
+        "size": {
+          "id": "small",
+          "name": "Small",
+          "price_modifier": 0
+        },
+        "sugar_level": {
+          "id": "less",
+          "name": "Less Sugar"
+        },
+        "subtotal": 26000
+      },
+      {
+        "id": 203,
+        "product_id": 5,
+        "product_name": "Irish Cream Infusion",
+        "product_image": "./products/20251205030255.png",
+        "price": 28000,
+        "quantity": 1,
+        "size": {
+          "id": "small",
+          "name": "Small",
+          "price_modifier": 0
+        },
+        "sugar_level": {
+          "id": "less",
+          "name": "Less Sugar"
+        },
+        "subtotal": 28000
+      }
+    ],
+    "order_code": "AVR-JKT-1002",
+    "branch_id": "brc-001",
+    "order_type": "dine_in"
+  },
+  {
+    "id": 4,
+    "order_code": "AVR-JKT-1004",
+    "branch_id": "brc-001",
+    "table_id": 6,
+    "status": "preparing",
+    "order_type": "dine_in",
+    "payment_method": "qris",
+    "payment_status": "paid",
+    "subtotal": 45000,
+    "discount": 0,
+    "tax": 5400,
+    "total": 50400,
+    "voucher_code": "",
+    "created_at": "2026-03-12T07:15:00",
+    "updated_at": "2026-03-12T07:18:00",
+    "order_items": [
+      {
+        "id": 301,
+        "product_id": 21,
+        "product_name": "Beef Burger",
+        "price": 45000,
+        "quantity": 1,
+        "subtotal": 45000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "order_code": "AVR-JKT-1005",
+    "branch_id": "brc-001",
+    "table_id": null,
+    "status": "pending",
+    "order_type": "takeaway",
+    "payment_method": "cash",
+    "payment_status": "pending",
+    "subtotal": 20000,
+    "discount": 0,
+    "tax": 2400,
+    "total": 22400,
+    "voucher_code": "",
+    "created_at": "2026-03-12T07:35:00",
+    "updated_at": "2026-03-12T07:35:00",
+    "order_items": [
+      {
+        "id": 401,
+        "product_id": 20,
+        "product_name": "Earl Grey Tea",
+        "price": 20000,
+        "quantity": 1,
+        "subtotal": 20000
+      }
+    ]
+  }
+]

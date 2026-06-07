@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sub-001",
+    "tenant_id": "tnt-001",
+    "plan_type": "pro",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "status": "active",
+    "monthly_price": 79
+  },
+  {
+    "id": "sub-002",
+    "tenant_id": "tnt-002",
+    "plan_type": "basic",
+    "start_date": "2026-03-01",
+    "end_date": "2027-02-28",
+    "status": "active",
+    "monthly_price": 29
+  }
+]

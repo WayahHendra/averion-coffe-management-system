@@ -1,0 +1,30 @@
+[
+  {
+    "code": "DISCOUNT10",
+    "type": "percentage",
+    "value": 10,
+    "limit": 100,
+    "expiry_date": "2026-12-31"
+  },
+  {
+    "code": "EXPIRED",
+    "type": "fixed",
+    "value": 6000,
+    "limit": 19,
+    "expiry_date": "2026-01-01"
+  },
+  {
+    "code": "WELCOME20",
+    "type": "percentage",
+    "value": 20,
+    "limit": 50,
+    "expiry_date": "2026-12-31"
+  },
+  {
+    "code": "POTONGAN15K",
+    "type": "fixed",
+    "value": 15000,
+    "limit": 200,
+    "expiry_date": "2026-06-30"
+  }
+]
