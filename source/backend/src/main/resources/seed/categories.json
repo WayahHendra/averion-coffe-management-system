@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "icon": "coffee"
+  },
+  {
+    "id": 2,
+    "name": "Tea",
+    "icon": "leaf"
+  },
+  {
+    "id": 3,
+    "name": "Snack",
+    "icon": "cookie"
+  },
+  {
+    "id": 4,
+    "name": "Pastries",
+    "icon": "croissant"
+  },
+  {
+    "id": 5,
+    "name": "Special Beverages",
+    "icon": "cup-soda"
+  },
+  {
+    "id": 6,
+    "name": "Main Course",
+    "icon": "utensils"
+  }
+]

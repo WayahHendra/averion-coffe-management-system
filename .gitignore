@@ -1,0 +1,30 @@
+# ─────── macOS ───────
+.DS_Store
+
+# ─────── Node / Frontend ───────
+node_modules/
+dist/
+dist-electron/
+*.local
+
+# ─────── Java / Backend (build) ───────
+target/
+build/
+*.class
+
+# ─────── Backend runtime data ───────
+uploads/
+data/
+*.db
+
+# ─────── Environment & secrets ───────
+.env
+.env.*
+!.env.example
+*.log
+
+# ─────── Editor / IDE ───────
+.idea/
+.vscode/
+*.iml
+*.iws

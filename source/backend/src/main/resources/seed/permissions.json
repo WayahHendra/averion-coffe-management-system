@@ -1,0 +1,52 @@
+[
+  { "id": 1, "name": "menu:create", "resource": "menu", "action": "create" },
+  { "id": 2, "name": "menu:read", "resource": "menu", "action": "read" },
+  { "id": 3, "name": "menu:update", "resource": "menu", "action": "update" },
+  { "id": 4, "name": "menu:delete", "resource": "menu", "action": "delete" },
+
+  { "id": 5, "name": "category:create", "resource": "category", "action": "create" },
+  { "id": 6, "name": "category:read", "resource": "category", "action": "read" },
+  { "id": 7, "name": "category:update", "resource": "category", "action": "update" },
+  { "id": 8, "name": "category:delete", "resource": "category", "action": "delete" },
+
+  { "id": 9, "name": "voucher:create", "resource": "voucher", "action": "create" },
+  { "id": 10, "name": "voucher:read", "resource": "voucher", "action": "read" },
+  { "id": 11, "name": "voucher:update", "resource": "voucher", "action": "update" },
+  { "id": 12, "name": "voucher:delete", "resource": "voucher", "action": "delete" },
+
+  { "id": 13, "name": "table:create", "resource": "table", "action": "create" },
+  { "id": 14, "name": "table:read", "resource": "table", "action": "read" },
+  { "id": 15, "name": "table:update", "resource": "table", "action": "update" },
+  { "id": 16, "name": "table:delete", "resource": "table", "action": "delete" },
+  { "id": 17, "name": "table:assign", "resource": "table", "action": "assign" },
+
+  { "id": 18, "name": "order:create", "resource": "order", "action": "create" },
+  { "id": 19, "name": "order:read", "resource": "order", "action": "read" },
+  { "id": 20, "name": "order:update", "resource": "order", "action": "update" },
+  { "id": 21, "name": "order:cancel", "resource": "order", "action": "cancel" },
+
+  { "id": 22, "name": "booking:create", "resource": "booking", "action": "create" },
+  { "id": 23, "name": "booking:read", "resource": "booking", "action": "read" },
+  { "id": 24, "name": "booking:update", "resource": "booking", "action": "update" },
+  { "id": 25, "name": "booking:cancel", "resource": "booking", "action": "cancel" },
+  { "id": 26, "name": "booking:checkin", "resource": "booking", "action": "checkin" },
+
+  { "id": 27, "name": "payment:create", "resource": "payment", "action": "create" },
+  { "id": 28, "name": "payment:read", "resource": "payment", "action": "read" },
+  { "id": 29, "name": "payment:refund", "resource": "payment", "action": "refund" },
+
+  { "id": 30, "name": "device:create", "resource": "device", "action": "create" },
+  { "id": 31, "name": "device:read", "resource": "device", "action": "read" },
+  { "id": 32, "name": "device:update", "resource": "device", "action": "update" },
+  { "id": 33, "name": "device:delete", "resource": "device", "action": "delete" },
+  { "id": 34, "name": "device:monitor", "resource": "device", "action": "monitor" },
+  { "id": 35, "name": "device:ota", "resource": "device", "action": "ota" },
+
+  { "id": 36, "name": "staff:create", "resource": "staff", "action": "create" },
+  { "id": 37, "name": "staff:read", "resource": "staff", "action": "read" },
+  { "id": 38, "name": "staff:update", "resource": "staff", "action": "update" },
+  { "id": 39, "name": "staff:delete", "resource": "staff", "action": "delete" },
+  { "id": 40, "name": "staff:assign_role", "resource": "staff", "action": "assign_role" },
+
+  { "id": 41, "name": "analytics:view", "resource": "analytics", "action": "view" }
+]
