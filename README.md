@@ -37,7 +37,7 @@ Pasang lebih dulu (cek dengan perintah di kanan):
 Unduh kode dari GitHub, lalu masuk ke folder project. Perintahnya **sama di semua OS & terminal** (bash, zsh, PowerShell, CMD):
 
 ```bash
-git clone https://github.com/AphidZ/averion-coffe-management-system.git
+git clone https://github.com/WayahHendra/averion-coffe-management-system.git
 cd averion-coffe-management-system
 ```
 
@@ -129,7 +129,21 @@ Buka alamat yang ditampilkan Vite (mis. **http://localhost:5173**). Request `/ap
 
 ## Login & Penggunaan Singkat
 
-Login kasir: **`siti_kasir` / `cashier123`**
+Tersedia akun demo untuk tiap peran (data dibuat otomatis saat backend pertama kali dijalankan):
+
+| Peran | Nama | Username | Password |
+|---|---|---|---|
+| **Super Admin** | SaaS Super Admin | `superadmin` | `hashed_password` |
+| **Tenant Owner** (Pemilik) | Budi Santoso | `buditenant` | `hashed_password` |
+| **Branch Manager** (Manajer) | Andi Manager | `andi_jkt` | `hashed_password` |
+| **Branch Manager** (Manajer) | Dewi Manager | `dewi_bdg` | `hashed_password` |
+| **Cashier** (Kasir) | Siti Cashier | `siti_kasir` | `cashier123` |
+| **Cashier** (Kasir) | Rina Cashier | `rina_bdg` | `cashier123` |
+| **Kitchen** (Dapur) | Chef Juna | `chef_juna` | `hashed_password` |
+
+> Login memakai kolom **Email or Username** + **Password**. Tampilan menyesuaikan peran akun yang login.
+
+Setelah login sebagai kasir:
 
 - Tab **Dashboard** kelola kategori / produk / meja / voucher / user, serta lihat orders & bookings.
 - Tab **Menu** alur POS: pilih produk → meja/booking → voucher → bayar Cash/QRIS.
