@@ -1,6 +1,6 @@
 # Averion Coffee: Coffee Shop Management System
 
-Tugas Besar Pemrograman Berorientasi Objek **Kelompok 7**
+Tugas Besar Pemrograman Berorientasi Objek **Kelompok 6**
 
 | Bagian | Teknologi | Folder |
 |---|---|---|
